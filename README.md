@@ -40,26 +40,30 @@
 
 ---
 
-### 🌿 [Iris Biotech](https://irisbiotech.co.in)
-*High-Performance B2B Export Architecture & Cold-Chain Logistics Platform*
-- **The Engineering Challenge**: Replacing slow aggregator listings with a high-performance, edge-rendered commercial quotation portal for international floriculture trade, engineered for sub-second international loading.
-- **Technical Architecture**:
-  - React 18, TypeScript, and Vite bundled with custom post-build SSG pre-rendering generating 28 pre-rendered route directories.
-  - Complete JSON-LD enterprise schema disambiguating agricultural entity identity from life-science namesakes across search engines.
-  - Secure quotation request pipeline integrated directly with business mail workflows.
+### 🌿 [Iris Biotech — Commercial Floriculture & Cold Chain Export](https://irisbiotech.co.in)
+*Production Client Deployment · [irisbiotech.co.in](https://irisbiotech.co.in) · (Private Enterprise Codebase)*
+- **The Engineering Challenge**: Replacing slow B2B directory listings with a high-performance, edge-rendered commercial quotation portal for international floriculture trade, engineered for sub-second international loading and zero aggregator commissions.
+- **Key Live Features & Architecture**:
+  - **Fast Edge-Rendered SSG**: 28 pre-rendered static route directories generated via a custom post-build pipeline (`scripts/post-build.cjs`) ensuring instant page transitions and full `<noscript>` crawler accessibility.
+  - **Dynamic Cut-Flower Catalog**: Detailed cultivar indexing for export Dutch Roses (*Taj Mahal, Sweet Avalanche, Pink Tacazzi, Penny Lane*) and Chrysanthemums (*Baltika White, Zambla*).
+  - **Enterprise JSON-LD Entity Disambiguation**: Structured microdata disambiguating Bangalore floriculture operations from European biotech namesakes (`Corporation`, `WholesaleStore`, `hasOfferCatalog`, `FAQPage`).
+  - **Integrated RFQ Pipeline**: Direct commercial B2B quotation funnel integrated into enterprise business mail workflows.
 - **Stack**: React 18, TypeScript, Vite, Tailwind CSS, Lucide React, Netlify Edge CDN.
-- **Deployment**: [Verified Production Site](https://irisbiotech.co.in)
+- **Live Deployment**: [Verified Production Platform ↗](https://irisbiotech.co.in)
 
 ---
 
-### 🌸 [3G Floratech 3D Showcase](https://3g-floritech.netlify.app)
-*Interactive 3D Cutout & Commercial Produce Engineering Platform*
-- **The Engineering Challenge**: Delivering an interactive, 360-degree viewport showcase with glassmorphism UI tokens while maintaining low bundle size and 60 FPS scroll performance across mobile and desktop.
-- **Technical Architecture**:
-  - Vite 6 build pipeline with rollup code-splitting and zero bloated 3D heavyweight runtimes.
-  - Scroll-driven MorphFlow timeline with custom CSS glassmorphism and agronomic data matrices.
-- **Stack**: Vite 6, Modern ES6+ JavaScript, Responsive CSS3, Netlify CI/CD.
-- **Deployment**: [Live Showcase Deployment](https://3g-floritech.netlify.app)
+### 🌸 [3G Floratech — 3D Interactive Produce & Botanical Showcase](https://3g-floritech.netlify.app)
+*Production Client Showcase · [3g-floritech.netlify.app](https://3g-floritech.netlify.app) · (Private Client Codebase)*
+- **The Engineering Challenge**: Delivering an interactive, 360-degree viewport showcase with glassmorphism UI tokens while maintaining low bundle size and silky 60 FPS scroll velocity across mobile and desktop.
+- **Key Live Features & Architecture**:
+  - **Interactive 3D Botanical Stage**: Real-time 360-degree orbital viewport controls displaying specimen models without the overhead of heavy 3D game engines.
+  - **MorphFlow Choreography & Glassmorphism UI**: Dynamic frosted glass HUD cards (`backdrop-filter: blur(14px)`) displaying real-time agronomic data, lipid ratios, and climate cycles.
+  - **11-Commodity Agronomic Matrix**: Comprehensive produce catalog (hydroponic Dutch mini-cucumbers, blocky bell peppers, subtropical avocado, high-Brix melons, and seed stock) with interactive specification cards.
+  - **Cinematic Launch Video**: Full-screen video showcase integration (`launch-video.html`) with smooth timeline scrub controls.
+  - **Zero-Bloat Vite 6 Pipeline**: Rollup code-splitting maintaining ultra-fast paint times and responsive mobile performance.
+- **Stack**: Vite 6, Modern ES6+ JavaScript, Responsive Glassmorphism CSS3, Netlify CI/CD.
+- **Live Deployment**: [Verified Live Showcase ↗](https://3g-floritech.netlify.app)
 
 ---
 
