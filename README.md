@@ -1,10 +1,13 @@
 <div align="center">
+  <img src="./assets/avatar.jpg" width="130" height="130" alt="Sohan" style="border-radius: 50%; border: 3px solid #38bdf8; box-shadow: 0 4px 20px rgba(56, 189, 248, 0.4); object-fit: cover;" />
+  <br>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0a0f1d,50:0d2036,100:083344&height=180&section=header&text=Sohan%20%7C%20Systems%20%26%20Web%20Engineer&fontSize=28&fontAlignY=38&desc=Defensive%20OSINT%20%7C%20Network%20Reconnaissance%20%7C%20Production%20Web%20Systems&descFontSize=14&descAlignY=62&fontColor=ffffff" width="100%" alt="Header" />
 
   <p align="center">
     <a href="#-flagship-engineering-projects"><img src="https://img.shields.io/badge/Flagship%20Projects-Explore-0f172a?style=for-the-badge&logo=target&logoColor=38bdf8" alt="Projects" /></a>
-    <a href="#-verified-production-deployments"><img src="https://img.shields.io/badge/Live%20Deployments-Inspect-0f172a?style=for-the-badge&logo=netlify&logoColor=22c55e" alt="Deployments" /></a>
-    <a href="#️-demonstrated-technical-capabilities"><img src="https://img.shields.io/badge/Tech%20Stack-Verified-0f172a?style=for-the-badge&logo=stackshare&logoColor=a855f7" alt="Stack" /></a>
+    <a href="#-verified-production-deployments--systems-matrix"><img src="https://img.shields.io/badge/Live%20Deployments-Inspect-0f172a?style=for-the-badge&logo=netlify&logoColor=22c55e" alt="Deployments" /></a>
+    <a href="#%EF%B8%8F-demonstrated-technical-capabilities"><img src="https://img.shields.io/badge/Tech%20Stack-Verified-0f172a?style=for-the-badge&logo=stackshare&logoColor=a855f7" alt="Stack" /></a>
     <a href="#-github-telemetry--activity"><img src="https://img.shields.io/badge/Telemetry-Activity-0f172a?style=for-the-badge&logo=github&logoColor=f8fafc" alt="Telemetry" /></a>
   </p>
 
@@ -15,17 +18,31 @@
 
 ---
 
+## ⚡ Quick Profile & Core Focus
+
+- 🔭 **Primary Focus**: Low-level passive internet reconnaissance, wire-format DNS-over-HTTPS resolvers ([RFC 8484](https://datatracker.ietf.org/doc/html/rfc8484)), and Certificate Transparency log stream parsing ([RFC 6962](https://datatracker.ietf.org/doc/html/rfc6962)).
+- 🛡️ **Engineering Rigor**: Test-driven software engineering with **293 verified passing automated tests** in production flagships, maintaining strict SSRF guards and forensic cryptographic ledgers.
+- 🌐 **Client & Edge Deployments**: Architecting high-performance commercial frontends — from 28 pre-rendered static route edge SSG catalogs to lightweight 60 FPS 3D WebGL orbital viewports.
+- 🤖 **Agentic Systems**: Developing human-in-the-loop review daemons with AST diff heuristic analyzers to prevent runaway autonomous edits.
+- 💬 **Ask Me About**: Digital forensics, Linux system troubleshooting, Next.js App Router, Vite 6 code-splitting, and building resilient full-stack architectures.
+
+---
+
 ## 🌐 Verified Production Deployments & Systems Matrix
 
 Interactive deployment dashboard indexing active production web platforms, defense tooling, and client architectures:
 
-| Project | Domain / Role | Live Status | Verified Capabilities | Architecture / Access |
+| Project | Domain / Role | Live Status | Verified Capabilities | Architecture & Access |
 | :--- | :--- | :--- | :--- | :--- |
 | [**Internet Archaeologist**](https://internet-archaeologist-platform.netlify.app) | Defensive OSINT & Forensics | [![Live Production](https://img.shields.io/badge/Status-Live%20Production-22c55e?style=flat-square&logo=netlify)](https://internet-archaeologist-platform.netlify.app) | [![Tests](https://img.shields.io/badge/Tests-293%20Passing-brightgreen?style=flat-square&logo=jest)](https://github.com/SohanV1/internet-archaeologist-platform) | [Public Repository ↗](https://github.com/SohanV1/internet-archaeologist-platform) |
-| [**Iris Biotech**](https://irisbiotech.co.in) | Floriculture B2B & Cold Chain | [![Live Production](https://img.shields.io/badge/Status-Live%20Production-22c55e?style=flat-square&logo=googlechrome)](https://irisbiotech.co.in) | [![Edge SSG](https://img.shields.io/badge/Architecture-28%20Edge%20SSG%20Routes-38bdf8?style=flat-square&logo=react)](https://irisbiotech.co.in) | Private Client Codebase |
-| [**3G Floratech**](https://3g-floritech.netlify.app) | 3D Interactive Botanical Showcase | [![Live Showcase](https://img.shields.io/badge/Status-Live%20Showcase-22c55e?style=flat-square&logo=netlify)](https://3g-floritech.netlify.app) | [![Vite 6](https://img.shields.io/badge/Engine-3D%20Viewport%20%2B%20Glassmorphism-a855f7?style=flat-square&logo=vite)](https://3g-floritech.netlify.app) | Private Client Codebase |
+| [**Iris Biotech**](https://irisbiotech.co.in) | Floriculture B2B & Cold Chain | [![Live Production](https://img.shields.io/badge/Status-Live%20Production-22c55e?style=flat-square&logo=googlechrome)](https://irisbiotech.co.in) | [![Edge SSG](https://img.shields.io/badge/Architecture-28%20Edge%20SSG%20Routes-38bdf8?style=flat-square&logo=react)](https://irisbiotech.co.in) | [Verified Client Deployment ↗](https://irisbiotech.co.in) |
+| [**3G Floritech**](https://3g-floritech.netlify.app) | 3D Interactive Botanical Showcase | [![Live Showcase](https://img.shields.io/badge/Status-Live%20Showcase-22c55e?style=flat-square&logo=netlify)](https://3g-floritech.netlify.app) | [![Vite 6](https://img.shields.io/badge/Engine-3D%20Viewport%20%2B%20Glassmorphism-a855f7?style=flat-square&logo=vite)](https://3g-floritech.netlify.app) | [Verified Client Showcase ↗](https://3g-floritech.netlify.app) |
 | [**AI Builder Notifier**](https://github.com/SohanV1/ai-builder-notifier) | Autonomous Agent Safety & Review | [![CLI Tool](https://img.shields.io/badge/Status-Active%20Tool-0ea5e9?style=flat-square&logo=whatsapp)](https://github.com/SohanV1/ai-builder-notifier) | [![AST Analyzer](https://img.shields.io/badge/Safety-AST%20Diff%20Gate-emerald?style=flat-square)](https://github.com/SohanV1/ai-builder-notifier) | [Public Repository ↗](https://github.com/SohanV1/ai-builder-notifier) |
 | [**JEE Advanced Tracker**](https://github.com/SohanV1/jee-advanced-goal-tracker-) | Academic Velocity & Analytics | [![Web App](https://img.shields.io/badge/Status-Active%20App-0ea5e9?style=flat-square)](https://github.com/SohanV1/jee-advanced-goal-tracker-) | [![Lifecycle](https://img.shields.io/badge/System-6--Stage%20Mastery-f59e0b?style=flat-square)](https://github.com/SohanV1/jee-advanced-goal-tracker-) | [Public Repository ↗](https://github.com/SohanV1/jee-advanced-goal-tracker-) |
+| [**MorphFlow Transitions**](https://github.com/SohanV1/morphflow-transitions) | UI Choreography & Motion Lab | [![Frontend Lab](https://img.shields.io/badge/Status-Active%20Lab-0ea5e9?style=flat-square&logo=react)](https://github.com/SohanV1/morphflow-transitions) | [![Motion](https://img.shields.io/badge/Engine-React%2019%20%2B%20Motion%2012-61dafb?style=flat-square)](https://github.com/SohanV1/morphflow-transitions) | [Public Repository ↗](https://github.com/SohanV1/morphflow-transitions) |
+
+> **🔒 Client Confidentiality & Architecture Standard**:
+> Commercial production codebases ([Iris Biotech](https://irisbiotech.co.in) and [3G Floritech](https://3g-floritech.netlify.app)) strictly isolate all client environment configurations, webhook tokens, and backend deployment keys into private edge secret vaults and `.gitignore` (`.env*`, `*.local`, `.netlify/`). Codebases maintain zero committed credentials or sensitive tokens.
 
 ---
 
@@ -90,8 +107,23 @@ flowchart LR
 
 ---
 
+### 🌸 [3G Floritech — 3D Interactive Produce & Botanical Showcase](https://3g-floritech.netlify.app)
+*Production Client Showcase · [3g-floritech.netlify.app](https://3g-floritech.netlify.app)*
+
+- **The Engineering Challenge**: Delivering an interactive, 360-degree orbital viewport showcase with glassmorphism UI tokens while maintaining low bundle size and silky 60 FPS scroll velocity across mobile and desktop.
+- **Key Live Features & Architecture**:
+  - **Interactive 3D Botanical Stage**: Real-time 360-degree orbital viewport controls displaying specimen models without the overhead of heavy 3D game engines.
+  - **MorphFlow Choreography & Glassmorphism UI**: Dynamic frosted glass HUD cards (`backdrop-filter: blur(14px)`) displaying real-time agronomic data, lipid ratios, and climate cycles.
+  - **11-Commodity Agronomic Matrix**: Comprehensive produce catalog (hydroponic Dutch mini-cucumbers, blocky bell peppers, subtropical avocado, high-Brix melons, and seed stock) with interactive specification cards.
+  - **Cinematic Launch Video**: Full-screen video showcase integration (`launch-video.html`) with smooth timeline scrub controls.
+  - **Zero-Bloat Vite 6 Pipeline**: Rollup code-splitting maintaining ultra-fast paint times and responsive mobile performance.
+- **Stack**: Vite 6, Modern ES6+ JavaScript, Responsive Glassmorphism CSS3, Netlify CI/CD.
+- **Links**: [Verified Live Showcase ↗](https://3g-floritech.netlify.app)
+
+---
+
 ### 🌿 [Iris Biotech — Commercial Floriculture & Cold Chain Export](https://irisbiotech.co.in)
-*Production Client Deployment · [irisbiotech.co.in](https://irisbiotech.co.in) · (Private Enterprise Codebase)*
+*Production Client Deployment · [irisbiotech.co.in](https://irisbiotech.co.in)*
 
 - **The Engineering Challenge**: Replacing slow B2B directory listings with a high-performance, edge-rendered commercial quotation portal for international floriculture trade, engineered for sub-second international loading and zero aggregator commissions.
 - **Key Live Features & Architecture**:
@@ -110,21 +142,6 @@ flowchart LR
 - **Cold Storage Logistics Integration**: Displays live Bangalore-to-Airport temperature-controlled dispatch protocols (2°C–4°C cold rooms, refrigerated transit) for overseas procurement officers.
 
 </details>
-
----
-
-### 🌸 [3G Floratech — 3D Interactive Produce & Botanical Showcase](https://3g-floritech.netlify.app)
-*Production Client Showcase · [3g-floritech.netlify.app](https://3g-floritech.netlify.app) · (Private Client Codebase)*
-
-- **The Engineering Challenge**: Delivering an interactive, 360-degree viewport showcase with glassmorphism UI tokens while maintaining low bundle size and silky 60 FPS scroll velocity across mobile and desktop.
-- **Key Live Features & Architecture**:
-  - **Interactive 3D Botanical Stage**: Real-time 360-degree orbital viewport controls displaying specimen models without the overhead of heavy 3D game engines.
-  - **MorphFlow Choreography & Glassmorphism UI**: Dynamic frosted glass HUD cards (`backdrop-filter: blur(14px)`) displaying real-time agronomic data, lipid ratios, and climate cycles.
-  - **11-Commodity Agronomic Matrix**: Comprehensive produce catalog (hydroponic Dutch mini-cucumbers, blocky bell peppers, subtropical avocado, high-Brix melons, and seed stock) with interactive specification cards.
-  - **Cinematic Launch Video**: Full-screen video showcase integration (`launch-video.html`) with smooth timeline scrub controls.
-  - **Zero-Bloat Vite 6 Pipeline**: Rollup code-splitting maintaining ultra-fast paint times and responsive mobile performance.
-- **Stack**: Vite 6, Modern ES6+ JavaScript, Responsive Glassmorphism CSS3, Netlify CI/CD.
-- **Links**: [Verified Live Showcase ↗](https://3g-floritech.netlify.app)
 
 ---
 
@@ -178,8 +195,10 @@ flowchart LR
 ## 📊 GitHub Telemetry & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SohanV1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=39d353&text_color=c9d1d9" height="155" alt="Sohan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohanV1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="155" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SohanV1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=22c55e&text_color=94a3b8" height="160" alt="Sohan's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=SohanV1&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=22c55e&currStreakLabel=38bdf8" height="160" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohanV1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="155" alt="Top Languages" />
 </div>
 
 ---
@@ -198,7 +217,7 @@ flowchart LR
   <a href="https://github.com/SohanV1"><img src="https://img.shields.io/badge/GitHub-@SohanV1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://internet-archaeologist-platform.netlify.app"><img src="https://img.shields.io/badge/Flagship-Internet%20Archaeologist-38bdf8?style=for-the-badge&logo=target&logoColor=white" alt="OSINT Platform" /></a>
   <a href="https://irisbiotech.co.in"><img src="https://img.shields.io/badge/Production-Iris%20Biotech-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Iris Biotech" /></a>
-  <a href="https://3g-floritech.netlify.app"><img src="https://img.shields.io/badge/Showcase-3G%20Floratech-a855f7?style=for-the-badge&logo=netlify&logoColor=white" alt="3G Floratech" /></a>
+  <a href="https://3g-floritech.netlify.app"><img src="https://img.shields.io/badge/Showcase-3G%20Floritech-a855f7?style=for-the-badge&logo=netlify&logoColor=white" alt="3G Floritech" /></a>
 </p>
 
 <div align="center">
