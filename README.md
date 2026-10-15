@@ -13,11 +13,11 @@
 
   <!-- Quick Interactive Navigation Anchors -->
   <p align="center">
-    <a href="#-flagship-engineering-projects"><img src="https://img.shields.io/badge/%F0%9F%94%8D_Flagship_Projects-Explore-0f172a?style=for-the-badge&logo=target&logoColor=38bdf8" alt="Projects" /></a>
-    <a href="#-verified-production-deployments--public-codebases"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Live_Deployments-Inspect-0f172a?style=for-the-badge&logo=netlify&logoColor=22c55e" alt="Deployments" /></a>
-    <a href="#%EF%B8%8F-demonstrated-technical-capabilities"><img src="https://img.shields.io/badge/%E2%9A%92%EF%B8%8F_Tech_Stack-Verified-0f172a?style=for-the-badge&logo=stackshare&logoColor=a855f7" alt="Stack" /></a>
-    <a href="#-github-telemetry--activity"><img src="https://img.shields.io/badge/%F0%9F%93%8A_Telemetry-Activity-0f172a?style=for-the-badge&logo=github&logoColor=f8fafc" alt="Telemetry" /></a>
-    <a href="#-lets-connect"><img src="https://img.shields.io/badge/%F0%9F%93%AC_Connect-Get_in_Touch-0f172a?style=for-the-badge&logo=gmail&logoColor=f59e0b" alt="Connect" /></a>
+    <a href="#projects"><img src="https://img.shields.io/badge/%F0%9F%94%8D_Flagship_Projects-Explore-0f172a?style=for-the-badge&logo=target&logoColor=38bdf8" alt="Projects" /></a>
+    <a href="#deployments"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Live_Deployments-Inspect-0f172a?style=for-the-badge&logo=netlify&logoColor=22c55e" alt="Deployments" /></a>
+    <a href="#stack"><img src="https://img.shields.io/badge/%E2%9A%92%EF%B8%8F_Tech_Stack-Verified-0f172a?style=for-the-badge&logo=stackshare&logoColor=a855f7" alt="Stack" /></a>
+    <a href="#telemetry"><img src="https://img.shields.io/badge/%F0%9F%93%8A_Telemetry-Activity-0f172a?style=for-the-badge&logo=github&logoColor=f8fafc" alt="Telemetry" /></a>
+    <a href="#connect"><img src="https://img.shields.io/badge/%F0%9F%93%AC_Connect-Get_in_Touch-0f172a?style=for-the-badge&logo=gmail&logoColor=f59e0b" alt="Connect" /></a>
   </p>
 
   <p align="center">
@@ -40,6 +40,7 @@ I am a **Systems & Web Engineer** focused on defensive cyber reconnaissance, int
 
 ---
 
+<a id="deployments"></a>
 ## 🌐 Verified Production Deployments & Public Codebases
 
 Interactive systems matrix indexing verified live production platforms and public architecture repositories:
@@ -58,6 +59,7 @@ Interactive systems matrix indexing verified live production platforms and publi
 
 ---
 
+<a id="projects"></a>
 ## 🏛️ Flagship Engineering Projects
 
 ### 🔍 [Internet Archaeologist Platform](https://github.com/SohanV1/internet-archaeologist-platform)
@@ -158,6 +160,7 @@ flowchart LR
 
 ---
 
+<a id="stack"></a>
 ## 🛠️ Demonstrated Technical Capabilities
 
 <div align="center">
@@ -196,6 +199,7 @@ flowchart LR
 
 ---
 
+<a id="telemetry"></a>
 ## 📊 GitHub Telemetry & Activity
 
 <div align="center">
@@ -203,6 +207,8 @@ flowchart LR
   <img src="https://streak-stats.demolab.com/?user=SohanV1&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=22c55e&currStreakLabel=38bdf8" height="160" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohanV1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="155" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SohanV1&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=22c55e" width="95%" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -215,6 +221,7 @@ flowchart LR
 
 ---
 
+<a id="connect"></a>
 ## 📬 Let's Connect
 
 <p align="center">
